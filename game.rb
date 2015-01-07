@@ -1,1 +1,2 @@
-"Hello"
+puts "Hello"
+name = "greg"
